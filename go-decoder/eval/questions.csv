@@ -1,0 +1,13 @@
+notice_id,lang,question,gold_tokens,gold_clause_contains,answerable
+697-FT_20240503,en,What date replaces 1st April 2024 in para 4 of the earlier notification?,15|2024|May,15th day of May,1
+697-FT_20240503,bn,আগের বিজ্ঞপ্তির অনুচ্ছেদ ৪-এ নতুন তারিখ কী?,15|2024,15th day of May,1
+697-FT_20240503,en,From which date is this notification deemed to be in force?,1|April|2024,deemed to have come into force,1
+697-FT_20240503,en,What is the late fee for missing this deadline?,,,0
+1270-FT_20240807,en,What rate replaces 'half per cent.'?,0.25,0.25 per cent,1
+1270-FT_20240807,bn,নতুন হার কত শতাংশ?,0.25,0.25 per cent,1
+1270-FT_20240807,en,Which earlier notification does this amend?,1427,1427-F.T.,1
+1270-FT_20240807,en,Under which section of the WBGST Act is this notification issued?,52,section 52,1
+1270-FT_20240807,en,What penalty applies if an operator does not comply?,,,0
+1064FT_20190626,en,What date replaces 21st June 2019 in notification 681-F.T.?,21|August|2019,21st day of August,1
+1064FT_20190626,en,Under which section of the Act is this notification issued?,164,section 164,1
+1003-FT_20210914,en,What date replaces 31st August 2021 in the provisos?,30|November|2021,30th day of November,1
